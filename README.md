@@ -2,8 +2,7 @@
 
 A color picker react app with features including creating your own color palettes.
 
-### To check out the site, visit https://admiring-swartz-27ea27.netlify.app/
-
+## To check out the site, visit https://admiring-swartz-27ea27.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
